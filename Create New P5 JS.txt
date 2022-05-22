@@ -1,0 +1,1 @@
+p5 generate --bundle PROJECT_NAME
